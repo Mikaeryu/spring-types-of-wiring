@@ -1,7 +1,7 @@
 # main stuff
 sonarlint/
 log/
-../spring-beans/target/
+target/
 
 # User-specific stuff
 .idea/
